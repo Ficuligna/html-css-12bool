@@ -1,0 +1,14 @@
+
+/* DEBUG:  */
+
+div{
+  background-color: lightblue;
+  border: 1px solid black;
+  height: 100px;
+}
+div>div>{
+  padding: 2.5%;
+}
+div>div>div>div{
+  background-color: red;
+}
