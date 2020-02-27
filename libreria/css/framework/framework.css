@@ -5,7 +5,7 @@
   box-sizing: border-box;
 }
 .container{
-  max-width: 1170px;
+  width: 1215px;
   margin: 0 auto;
 }
 /* --------- Clear----------*/
